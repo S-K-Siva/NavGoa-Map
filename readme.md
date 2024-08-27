@@ -82,6 +82,9 @@ python3 manage.py runserver 8000
 
 
 ### Screen 2 - Output of the best shortest path at the current situtations
+
+- **Red Pointer** indicates the source and destination
+- **Green Pointer** indicates the best shortest path at the current situations
 <img width="1440" alt="Screenshot 2024-08-27 at 7 14 17 PM" src="https://github.com/user-attachments/assets/db47aec5-1570-4cc7-84a2-fa955cd53091">
 
 
